@@ -17,6 +17,7 @@ h1{
     color: #fff;
     font-family: 'Death Squire', sans-serif;
     font-size: clamp(3rem, 1.75rem + 4vw, 4rem);
+    margin: 0 auto;
     text-align: center;
     font-weight: 900;
 }
