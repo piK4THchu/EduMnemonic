@@ -16,9 +16,8 @@ body{
 h1{
     color: #fff;
     font-family: 'Death Squire', sans-serif;
-    font-size: 60px;
-    margin-left: 490px;
-    margin-top: 10px;
+    font-size: clamp(3rem, 1.75rem + 4vw, 4rem);
+    text-align: center;
     font-weight: 900;
 }
 .logos{
