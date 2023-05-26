@@ -22,6 +22,11 @@ h1{
     font-weight: 900;
     min-height: fit-content;
 }
+@media screen and (max-width:70px) {
+    h1{
+        font-size: 30px;
+    }
+}
 .logos{
     position: absolute;
     top: 15px;
